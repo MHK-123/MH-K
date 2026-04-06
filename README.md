@@ -86,16 +86,8 @@ Advanced reporting system with UI interactions
 
 * 📧 Email: [mithanihussain.123@gmail.com](mailto:mithanihussain.123@gmail.com)
 * 💼 LinkedIn: [https://linkedin.com/in/mohammed-hussain-6306a1334](https://linkedin.com/in/mohammed-hussain-6306a1334)
-* 💬 Discord: fyTtmHdxWT
+* 💬 Discord: hussain.mhk
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHK-123&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHK-123&layout=compact&hide_border=true" />
-</p>
 
 ---
 
